@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+### Portfolio
+
+[antoinecantoro.com](https://antoinecantoro.com/)
+
+### Socials
+
+[X](https://x.com/AVFCantoro/)
+[LinkedIn](https://www.linkedin.com/in/antoine-cantoro/)
 <!--
 **antoineCantoro/antoineCantoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
